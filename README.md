@@ -13,6 +13,7 @@ To see the scripts in action [here](https://youtu.be/rPVh0itaMgo)
 
 **/Pythonista-Scripts/** contains my scripts to create the MySorter App.
 Pythonista is an iPhone app that gives you the ability to create iOS apps and extentions in python. [Pythonista Site](http://omz-software.com/pythonista/)
+
 To create a the MySorter app:
 - Download the xcode project from [https://github.com/omz/PythonistaAppTemplate](https://github.com/omz/PythonistaAppTemplate)
 - Follow the instructions in the project's README regarding Changing the App's Name, Icon, and Launch Screen, etc.
