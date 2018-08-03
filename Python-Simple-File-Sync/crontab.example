@@ -1,0 +1,1 @@
+*/1 * * * * /Path/to/python /Path/to/script/simple_file_sync.py >> Path/to/a/log.file 2>&1

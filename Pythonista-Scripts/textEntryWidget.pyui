@@ -1,0 +1,151 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 125}, {135, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "6AC0CEDE-B5DD-4D63-9FD7-E8ED7B49CCBD",
+          "flex" : "WLR",
+          "corner_radius" : 10,
+          "background_color" : "RGBA(0.666667,0.500000,1.000000,1.000000)",
+          "frame" : "{{110, 104}, {80, 32}}",
+          "tint_color" : "RGBA(0.301961,0.301961,0.301961,1.000000)",
+          "border_width" : 0,
+          "title" : "Add Todo",
+          "action" : "sendTodoField",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "AddTodo",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{159, 125}, {135, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "6AC0CEDE-B5DD-4D63-9FD7-E8ED7B49CCBD",
+          "font_size" : 15,
+          "corner_radius" : 10,
+          "background_color" : "RGBA(1.000000,0.187500,0.187500,1.000000)",
+          "frame" : "{{110, 104}, {80, 32}}",
+          "tint_color" : "RGBA(0.301961,0.301961,0.301961,1.000000)",
+          "border_width" : 0,
+          "title" : "Clear",
+          "action" : "clearTodoField",
+          "class" : "Button",
+          "name" : "Clear",
+          "flex" : "WLR"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 185}, {91, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "6AC0CEDE-B5DD-4D63-9FD7-E8ED7B49CCBD",
+          "font_size" : 15,
+          "corner_radius" : 10,
+          "background_color" : "RGBA(0.300000,0.766667,1.000000,1.000000)",
+          "frame" : "{{110, 104}, {80, 32}}",
+          "tint_color" : "RGBA(0.301961,0.301961,0.301961,1.000000)",
+          "border_width" : 0,
+          "title" : "DT Note",
+          "action" : "sendToDevonThink",
+          "class" : "Button",
+          "name" : "To DT",
+          "flex" : "WLR"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{105, 185}, {91, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "6AC0CEDE-B5DD-4D63-9FD7-E8ED7B49CCBD",
+          "font_size" : 15,
+          "corner_radius" : 10,
+          "background_color" : "RGBA(0.266667,0.752941,1.000000,1.000000)",
+          "frame" : "{{110, 104}, {80, 32}}",
+          "tint_color" : "RGBA(0.301961,0.301961,0.301961,1.000000)",
+          "border_width" : 0,
+          "title" : "To LyricPool",
+          "action" : "sendToLyricPool",
+          "class" : "Button",
+          "name" : "ToLyricPool",
+          "flex" : "WLR"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{203, 185}, {91, 45}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "openSimpleNote",
+          "border_width" : 0,
+          "flex" : "WLR",
+          "frame" : "{{110, 104}, {80, 32}}",
+          "title" : "Simplenote",
+          "class" : "Button",
+          "uuid" : "6AC0CEDE-B5DD-4D63-9FD7-E8ED7B49CCBD",
+          "background_color" : "RGBA(0.879717,0.879717,0.879717,1.000000)",
+          "corner_radius" : 10,
+          "font_size" : 15,
+          "name" : "button1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{10, 10}, {280, 100}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "FB9EA70F-C961-40F3-AB25-AAFAE9BF3056",
+          "font_size" : 17,
+          "corner_radius" : 10,
+          "background_color" : "RGBA(0.877358,0.877358,0.877358,1.000000)",
+          "frame" : "{{50, 20}, {200, 200}}",
+          "border_color" : "RGBA(0.266667,0.511111,1.000000,1.000000)",
+          "editable" : true,
+          "border_width" : 1,
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "todoEntry",
+          "flex" : "W"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {300, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
